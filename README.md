@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 ! I'm Bedis
 
-<!--
-**bedis-elacheche/bedis-elacheche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile visits](https://badges.pufler.dev/visits/bedis-elacheche/bedis-elacheche?label=Profile%20visits&style=flat-square)
 
-Here are some ideas to get you started:
+- I’m currently working as a **Fullstack Developer** at **[Photobox](https://photobox.co.uk)**
+- I’m looking to collaborate on **Vanilla js**, **Node.js** and **React** projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Some stats
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=bedis-elacheche&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bedis-elacheche)](https://github.com/anuraghazra/github-readme-stats)
+
+### Keep in touch
+[Website](https://bedis.elacheche.me) · [Twitter](https://twitter.com/_bedis) · [LinkedIn](https://www.linkedin.com/in/bedis-elacheche)
