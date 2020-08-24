@@ -7,7 +7,7 @@
 
 ### Some stats
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=bedis-elacheche&count_private=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=bedis-elacheche&count_private=true&show_icons=true&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bedis-elacheche)](https://github.com/anuraghazra/github-readme-stats)
 
