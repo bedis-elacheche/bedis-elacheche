@@ -6,10 +6,11 @@
 - I’m looking to collaborate on **Vanilla js**, **Node.js** and **React** projects
 
 ### Some stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bedis-elacheche&hide_border=true)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=bedis-elacheche&count_private=true&show_icons=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bedis-elacheche)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bedis-elacheche&layout=compact)
 
 ### Keep in touch
 [Website](https://bedis.elacheche.me) · [Twitter](https://twitter.com/_bedis) · [LinkedIn](https://www.linkedin.com/in/bedis-elacheche)
