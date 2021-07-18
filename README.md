@@ -2,7 +2,7 @@
 
 ![Profile visits](https://badges.pufler.dev/visits/bedis-elacheche/bedis-elacheche?label=Profile%20visits&style=flat-square)
 
-- I’m currently working as a **Fullstack Developer** at **[Photobox](https://photobox.co.uk)**
+- I’m currently working as a **Fullstack Developer**
 - I’m looking to collaborate on **Vanilla js**, **Node.js** and **React** projects
 
 ### Some stats
